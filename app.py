@@ -1,2 +1,1 @@
-print("Student Manager App")
-print("Login Feature Added")
+print("Student Manager App - MAIN VERSION")
